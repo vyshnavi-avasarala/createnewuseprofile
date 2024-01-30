@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298959387093",
+    "project_id": "createuserprofile-471f5",
+    "storage_bucket": "createuserprofile-471f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298959387093:android:9d876f33662f1322d9655c",
+        "android_client_info": {
+          "package_name": "com.example.createnewuserprofile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9PZvp-a4UBez26BiHTCu3Nt3Vq_nqCTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
